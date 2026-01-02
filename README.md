@@ -64,4 +64,15 @@ OBS:
 
 ### First screen debug
 
-Teacher instructed us to create the file **src/screens/Home.tsx**.
+Teacher instructed us to create the file **src/screens/Home.tsx** with this code:
+
+```
+import React from "react";
+import {Text} from "react-native";
+
+export default function Home() {
+    return (
+        <Text>Home works!!</Text>
+    );
+}
+```
