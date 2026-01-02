@@ -53,3 +53,7 @@ Teacher enforced this concept **"all in React Native is a component"**. As examp
 ### Vysor App
 
 If viewing the app in PC is be necessary, you could install Vysor app.
+
+OBS:
+
+- you will need to enable developer options in the cellphone;
