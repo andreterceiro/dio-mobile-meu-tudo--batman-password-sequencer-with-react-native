@@ -58,3 +58,4 @@ OBS:
 
 - you will need to enable developer options in the cellphone;
 - in the developer options, you will need to enable USB Debugging in the cellphone;
+- On connecting the cellphone in the PC, when requested please authorize the connectiom om the cellphone;
