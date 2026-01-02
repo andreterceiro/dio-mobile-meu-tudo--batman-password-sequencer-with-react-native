@@ -76,3 +76,5 @@ export default function Home() {
     );
 }
 ```
+
+We used this screen importing it an inserting a tag &lt;Home&gt;in **App.tsx**.
