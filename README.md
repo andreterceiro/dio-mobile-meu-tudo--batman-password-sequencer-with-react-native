@@ -103,3 +103,5 @@ const styles = StyleSheet.create({
   },
 });
 ```
+
+Note that as you can see in the above code, I made a little change of the default text in App.tsx.
