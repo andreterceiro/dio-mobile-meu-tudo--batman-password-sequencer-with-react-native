@@ -127,3 +127,13 @@ export default function App() {
 ```
 
 In the process, while do not inserting the stylesheet also in Home.tsx, the external component of Home.tsx was a fragment.
+
+```
+export default function Home() {
+    return (
+        <>
+          ...
+        </> 
+    )
+}
+```
