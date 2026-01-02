@@ -57,3 +57,4 @@ If viewing the app in PC is be necessary, you could install Vysor app.
 OBS:
 
 - you will need to enable developer options in the cellphone;
+- in the developer options, you will need to enable USB Debugging in the cellphone;
