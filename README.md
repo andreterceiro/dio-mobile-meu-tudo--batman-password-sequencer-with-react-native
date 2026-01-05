@@ -159,5 +159,3 @@ const styles = StyleSheet.create({
   },
 });
 ```
-
-# Current class: separando as responsabilidades
