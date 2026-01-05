@@ -159,3 +159,8 @@ const styles = StyleSheet.create({
   },
 });
 ```
+
+
+## Passing the stylesheet to an external file
+
+Teacher passed the stylesheet to an external file, removing it from the screen (in imy project it was in App.tsx, but is the same idea).
