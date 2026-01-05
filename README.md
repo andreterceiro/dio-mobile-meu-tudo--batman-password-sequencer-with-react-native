@@ -179,3 +179,5 @@ export default StyleSheet.create({
   },
 });
 ```
+
+Current class: utilizando snippets
