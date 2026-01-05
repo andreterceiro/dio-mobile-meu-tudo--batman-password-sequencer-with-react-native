@@ -164,3 +164,18 @@ const styles = StyleSheet.create({
 ## Passing the stylesheet to an external file
 
 Teacher passed the stylesheet to an external file, removing it from the screen (in imy project it was in App.tsx, but is the same idea).
+
+Then please remove this code from the screen file or App.tsx and pass it to the file 'src/screens/Style.tsx':
+
+```
+import { StyleSheet } from 'react-native';
+
+export default StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#fff',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+});
+```
