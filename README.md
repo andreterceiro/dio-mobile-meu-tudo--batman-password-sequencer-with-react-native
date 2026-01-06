@@ -196,3 +196,5 @@ To create the contents, teacher asked us:
 
 - to type the command `rbnc` of the new **VSCode** plugin in the file Menu.tsx;
 - In the stylesheet file (MenuStyles.tsx), the command do type was `rnso`.
+
+In **Menu.tsx** we only had to adjust the path of the stylesheet file to point to MenuStyles.tsx.
