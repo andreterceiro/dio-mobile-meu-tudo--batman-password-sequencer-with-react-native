@@ -214,4 +214,12 @@ export function Menu() {
 }
 ```
 
-The content of MenuStyles.tsx was the content provided by the plugin.
+The content of MenuStyles.tsx was the content provided by the plugin:
+
+```
+import { StyleSheet } from 'react-native';
+
+export const styles = StyleSheet.create({
+  container: {}
+});
+```
