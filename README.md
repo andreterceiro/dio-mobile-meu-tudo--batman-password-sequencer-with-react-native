@@ -213,3 +213,5 @@ export function Menu() {
   );
 }
 ```
+
+The content of MenuStyles.tsx was the content provided by the plugin.
