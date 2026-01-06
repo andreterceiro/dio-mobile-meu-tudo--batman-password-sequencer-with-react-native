@@ -1,8 +1,13 @@
 import React from "react";
-import {Text} from "react-native";
+import {View, Text} from "react-native";
+import { Menu } from "../components/Menu/Menu";
+
 
 export default function Home() {
     return (
-        <Text>Home works!!</Text>
+          <View>
+            <Menu></Menu>
+            <Text>Home works!!</Text>
+          </View>
     );
 }
