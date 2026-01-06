@@ -194,4 +194,5 @@ Then teacher asked us to create the component **src/components/Menu** (directory
 
 To create the contents, teacher asked us:
 
--  to type the command `rbnc` of the new **VSCode** plugin in the file Menu.tsx;
+- to type the command `rbnc` of the new **VSCode** plugin in the file Menu.tsx;
+- In the stylesheet file (MenuStyles.tsx), the command do type was `rnso`.
