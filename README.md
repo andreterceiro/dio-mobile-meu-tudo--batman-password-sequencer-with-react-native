@@ -181,3 +181,8 @@ export default StyleSheet.create({
 ```
 
 
+# Snippet
+
+Teacher asked us to install this extension in VSCode to create a snippet:
+
+![extension R Component](images/extension-r-component.png)
