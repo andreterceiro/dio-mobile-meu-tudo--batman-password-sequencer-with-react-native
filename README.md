@@ -181,8 +181,13 @@ export default StyleSheet.create({
 ```
 
 
-# Snippet
+# Snippets
 
 Teacher asked us to install this extension in VSCode to create a snippet:
 
 ![extension R Component](images/extension-r-component.png)
+
+Then teacher asked us to create the component **src/components/Menu** (directory) with the files:
+
+- Menu.tsx;
+- MenuStyles.tsx.
