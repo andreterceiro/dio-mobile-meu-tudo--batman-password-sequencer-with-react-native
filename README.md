@@ -223,3 +223,5 @@ export const styles = StyleSheet.create({
   container: {}
 });
 ```
+
+Then teacher used the new created &lt;Menu /&gt; component in Home.tsx.
