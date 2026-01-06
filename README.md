@@ -224,4 +224,20 @@ export const styles = StyleSheet.create({
 });
 ```
 
-Then teacher used the new created &lt;Menu /&gt; component in Home.tsx.
+Then teacher used the new created &lt;Menu /&gt; component in Home.tsx. After inserting a &lt;View /&gt; component to be the external component and inserting the &lt;Menu /&gt; component as the children component, the code of Home.tsx passed to be similar to:
+
+```
+import React from "react";
+import {View, Text} from "react-native";
+import { Menu } from "../components/Menu/Menu";
+
+
+export default function Home() {
+    return (
+          <View>
+            <Menu></Menu>
+            <Text>Home works!!</Text>
+          </View>
+    );
+}
+```
