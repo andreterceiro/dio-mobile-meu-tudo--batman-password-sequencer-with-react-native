@@ -5,7 +5,9 @@ import {BatLogo} from '../components/BatLogo/BatLogo'
 export default function Home() {
     return (
           <View>
-            <BatLogo />
+            <View>
+              <BatLogo />
+            </View>
             <Text>Home works!!</Text>
           </View>
     );
