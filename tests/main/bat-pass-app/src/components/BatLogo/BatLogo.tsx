@@ -9,6 +9,10 @@ export function BatLogo() {
       <Text  style={styles.title}>Bat pass generator</Text>
       <Image
         source={batLogo}
+        style= {{
+          resizeMode: 'contain',
+          height: 180
+        }}
       />
     </View>
   );
