@@ -5,8 +5,8 @@ import { styles } from './BatLogoStyles';
 
 export function BatLogo() {
   return (
-    <View style={styles.container}>
-      <Text>Bat pass generator</Text>
+    <View>
+      <Text  style={styles.title}>Bat pass generator</Text>
       <Image
         source={batLogo}
       />
