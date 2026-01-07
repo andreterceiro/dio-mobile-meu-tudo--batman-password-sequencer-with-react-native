@@ -241,3 +241,10 @@ export default function Home() {
     );
 }
 ```
+
+
+
+
+# Repository related to the classes
+
+[link](https://github.com/felipeAguiarCode/react-native-bat-pass-generator)
