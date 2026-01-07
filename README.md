@@ -241,5 +241,3 @@ export default function Home() {
     );
 }
 ```
-
-Current class: Logo.
