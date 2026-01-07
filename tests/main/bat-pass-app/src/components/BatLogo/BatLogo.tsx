@@ -5,7 +5,7 @@ import { styles } from './BatLogoStyles';
 
 export function BatLogo() {
   return (
-    <View>
+    <>
       <Text  style={styles.title}>Bat pass generator</Text>
       <Image
         source={batLogo}
@@ -14,6 +14,6 @@ export function BatLogo() {
           height: 180
         }}
       />
-    </View>
+    </>
   );
 }
