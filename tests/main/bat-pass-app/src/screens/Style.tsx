@@ -7,4 +7,7 @@ export default StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  logoContainer: {
+    flexDirection: "column"
+  }
 });
