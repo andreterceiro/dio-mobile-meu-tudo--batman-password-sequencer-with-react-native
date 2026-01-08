@@ -8,7 +8,6 @@ export default function Home() {
             <View>
               <BatLogo />
             </View>
-            <Text>Home works!!</Text>
           </View>
     );
 }
