@@ -5,7 +5,7 @@ import styles from "./Style"
 
 export default function Home() {
     return (
-          <View>
+          <View style={styles.container}>
             <View style={styles.logoContainer}>
               <BatLogo />
             </View>

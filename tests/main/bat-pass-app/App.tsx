@@ -5,7 +5,7 @@ import styles from "./src/screens/Style"
 
 export default function App() {
   return (
-    <View style={styles.container}>
+    <View>
       <Home />
       <Text>Coringão</Text>
       <StatusBar style="auto" />
