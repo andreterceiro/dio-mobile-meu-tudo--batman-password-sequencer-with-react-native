@@ -8,6 +8,14 @@ export default StyleSheet.create({
     justifyContent: 'center',
   },
   logoContainer: {
-    flexDirection: "column"
+    flexDirection: 'column',
+    borderWidth: 2,
+    borderColor: '#FFF',
+    justifyContent: 'center',
+    alignSelf: 'center',
+    marginBottom: 60,
+    paddingTop: 20,
+    paddingBottom: 10,
+    backgroundColor: '#4D4D4D'
   }
 });
