@@ -257,8 +257,7 @@ The contents where created with the commands rnbc (React Native basic component 
 And after teacher adjusted paths and the style properties.
 
 
-# Current class: Criando um input de texto
-
+# Current class: Alterando o Container do textInput
 
 
 # Repository related to the classes
