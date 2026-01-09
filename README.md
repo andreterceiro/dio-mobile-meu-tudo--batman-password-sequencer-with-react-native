@@ -248,6 +248,11 @@ export default function Home() {
 Teacher did some general changes (stylesheet, moved places of things etc). Nothing new. No new concept in the class "Trabalhando os Containers". I ask you to see the project in the "tests/main" directory.
 
 
+# Creating the text input component
+
+In this new created component nothing new.
+
+
 # Current class: Criando um input de texto
 
 
