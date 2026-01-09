@@ -252,6 +252,8 @@ Teacher did some general changes (stylesheet, moved places of things etc). Nothi
 
 In this new created component nothing new. We created a main file (tests/main/bat-pass-app/src/components/BatTextInput/BatTextInput.tsx) and a file to receive it stylezation file (tests/main/bat-pass-app/src/components/BatTextInput/BatTextInputStyles.tsx).
 
+The contents where created with the commands rnbc (React Native basic component in tests/main/bat-pass-app/src/components/BatTextInput/BatTextInput.tsx) amd rnso (React Native Stylesheet Object un tests/main/bat-pass-app/src/components/BatTextInput/BatTextInputStyles.tsx). 
+
 
 # Current class: Criando um input de texto
 
