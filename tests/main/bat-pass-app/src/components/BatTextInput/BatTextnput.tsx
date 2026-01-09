@@ -1,10 +1,10 @@
 import React from 'react';
-import { View } from 'react-native';
+import { View, TextInput } from 'react-native';
 
 export function BatTextInput() {
   return (
     <View>
-
+        <TextInput placeholder="pass"></TextInput>
     </View>
   );
 }
