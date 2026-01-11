@@ -1,5 +1,5 @@
 import React from 'react';
-import { View } from 'react-native';
+import { Button,View } from 'react-native';
 
 import { styles } from './BatButtonStyles';
 
