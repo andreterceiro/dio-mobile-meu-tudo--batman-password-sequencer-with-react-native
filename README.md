@@ -262,6 +262,14 @@ And after teacher adjusted paths and the style properties.
 The next class was simple. No new concept. Teacher created a new node (simminar do CSS class) in src/screens/Style.tsx, in src/screens/Home.tsx inserted a &lt;View&gt; arround the &lt;BatTextInput&gt;, acting as a container and aplied the created new "CSS class" to this view and persolized the style configurations in src/screens/Style.tsx.
 
 
+# Bat Button
+
+Next teacher created a component &lt;BatButton&gt; and inserted it.
+
+
+# Current class: Criando um Pressable
+
+
 # Repository related to the classes
 
 [link](https://github.com/felipeAguiarCode/react-native-bat-pass-generator)
