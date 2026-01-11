@@ -264,7 +264,7 @@ The next class was simple. No new concept. Teacher created a new node (simminar 
 
 # Bat Button
 
-Next teacher created a component &lt;BatButton&gt; and inserted it.
+Next teacher created a component &lt;BatButton&gt; and inserted it. For all the created components teacher created a folder and inserted in the folder the main file of the component and a styling file for the component.
 
 
 # Current class: Criando um Pressable
