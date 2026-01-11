@@ -264,7 +264,7 @@ The next class was simple. No new concept. Teacher created a new node (simminar 
 
 # Bat Button
 
-Next teacher created a component &lt;BatButton&gt; and inserted it. For all the created components teacher created a folder and inserted in the folder the main file of the component and a styling file for the component. The initial content was created with the **VSCode** commands **rnbc** (React Native Basic Component for the main file of the component) and **rnso** for the styling (similar to a stylesheet file) file of the component.  
+Next teacher created a component &lt;BatButton&gt; and inserted it. For all the created components teacher created a folder and inserted in the folder the main file of the component and a styling file for the component. The initial content was created with the **VSCode** commands **rnbc** (React Native Basic Component for the main file of the component) and **rnso** for the styling (similar to a stylesheet file) file of the component. These commands were provided by the **VSCode plugin Rcomponent**.  
 
 
 # Current class: Criando um Pressable
