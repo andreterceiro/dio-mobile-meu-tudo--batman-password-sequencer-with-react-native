@@ -14,7 +14,7 @@ export default function Home() {
             <View style={styles.inputContainer}>
               <BatTextInput />
             </View>
-            <StatusBar style="auto" />
+            <StatusBar style="light" />
           </View>
     );
 }
