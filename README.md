@@ -257,7 +257,9 @@ The contents where created with the commands rnbc (React Native basic component 
 And after teacher adjusted paths and the style properties.
 
 
-# Current class: Alterando o Container do textInput
+# Container of BatTextInput
+
+The next class was simple. No new concept. Teacher created a new node (simminar do CSS class) in src/screens/Style.tsx, in src/screens/Home.tsx inserted a &lt;View&gt; arround the &lt;BatTextInput&gt;, acting as a container and aplied the created new "CSS class" to this view and persolized the style configurations in src/screens/Style.tsx.
 
 
 # Repository related to the classes
