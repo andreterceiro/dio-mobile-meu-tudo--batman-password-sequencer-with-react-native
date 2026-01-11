@@ -14,7 +14,6 @@ export default function Home() {
             <View style={styles.inputContainer}>
               <BatTextInput />
             </View>
-            <Text>Coringão</Text>
             <StatusBar style="auto" />
           </View>
     );
