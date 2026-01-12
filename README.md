@@ -269,6 +269,8 @@ Next teacher created a component &lt;BatButton&gt; and inserted it. For all the 
 
 # Current class: Criando um Pressable
 
+In the next class teacher imported and inserted a &lt;Text/&gt; in the &lt;BatButton/&gt; component.
+
 
 # Repository related to the classes
 
