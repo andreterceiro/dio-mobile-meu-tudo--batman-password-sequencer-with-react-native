@@ -273,6 +273,10 @@ In the next class teacher imported and inserted a &lt;Text/&gt; in the &lt;BatBu
 
 Teacher passed an interesting tip. If you press the combination **Windows key + .** you will see a popup to select an icon to insert. Is a Windows feature, but also works in VSCode.
 
+Teacher imported Pressable from 'react-native' (as Text, View or Button) and inserted this way:
+
+![Inserting a <Pressable />](images/inserting-a-pressable.png)
+
 
 # Repository related to the classes
 
