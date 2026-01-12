@@ -271,6 +271,8 @@ Next teacher created a component &lt;BatButton&gt; and inserted it. For all the 
 
 In the next class teacher imported and inserted a &lt;Text/&gt; in the &lt;BatButton/&gt; component.
 
+Teacher passed an interesting tip. If you press the combination **Windows key + .** you will see a popup to select an icon to insert.
+
 
 # Repository related to the classes
 
