@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button,View } from 'react-native';
+import { Button, View, Text } from 'react-native';
 
 import { styles } from './BatButtonStyles';
 
@@ -11,6 +11,7 @@ export function BatButton() {
             title="Clique aqui"
             accessibilityLabel='clique em mim'
         />
+        <Text>Test 😊</Text>
     </View>
   );
 }
