@@ -277,6 +277,8 @@ Teacher imported Pressable from 'react-native' (as Text, View or Button) and ins
 
 ![Inserting a <Pressable />](images/inserting-a-pressable.png)
 
+Why insert a &lt;Pressable/&gt; instead of use a &lt;Button/&gt;? To have more possibilities on formatting.
+
 
 # Repository related to the classes
 
