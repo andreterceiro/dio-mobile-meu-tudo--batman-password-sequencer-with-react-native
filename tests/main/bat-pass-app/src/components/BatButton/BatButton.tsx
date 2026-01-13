@@ -12,10 +12,10 @@ export function BatButton() {
             accessibilityLabel='clique em mim'
         />
         <Pressable onPress={() => console.log("Generate")}>
-          <Text>Generate</Text>
+          <Text style={styles.text}>Generate</Text>
         </Pressable>
         <Pressable onPress={() => console.log("Copy")}>
-          <Text>Copy</Text>
+          <Text style={styles.text}>Copy</Text>
         </Pressable>  
     </View>
   );
