@@ -11,8 +11,11 @@ export function BatButton() {
             title="Clique aqui"
             accessibilityLabel='clique em mim'
         />
-        <Pressable onPress={() => console.log("Fui pressionado")}>
-          <Text>Test 😊</Text>
+        <Pressable onPress={() => console.log("Generate")}>
+          <Text>Generate</Text>
+        </Pressable>
+        <Pressable onPress={() => console.log("Copy")}>
+          <Text>Copy</Text>
         </Pressable>  
     </View>
   );
