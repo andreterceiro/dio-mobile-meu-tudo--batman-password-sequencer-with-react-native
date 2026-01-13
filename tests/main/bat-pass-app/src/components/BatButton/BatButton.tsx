@@ -5,13 +5,13 @@ import { styles } from './BatButtonStyles';
 
 export function BatButton() {
   return (
-    <View style={styles.container}>
+    <>
         <Pressable style={styles.button} onPress={() => console.log("Generate")}>
           <Text style={styles.text}>Generate</Text>
         </Pressable>
         <Pressable style={styles.button} onPress={() => console.log("Copy")}>
           <Text style={styles.text}>Copy </Text>
         </Pressable>  
-    </View>
+    </>
   );
 }
