@@ -8,5 +8,8 @@ export const styles = StyleSheet.create({
     fontWeight: 'bold',
     letterSpacing: 0.25,
     color: '#E5BF3C'
+  },
+  button: {
+    
   }
 });
