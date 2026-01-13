@@ -6,16 +6,11 @@ import { styles } from './BatButtonStyles';
 export function BatButton() {
   return (
     <View style={styles.container}>
-        <Button
-            onPress={() => console.log('olá')}
-            title="Clique aqui"
-            accessibilityLabel='clique em mim'
-        />
         <Pressable style={styles.button} onPress={() => console.log("Generate")}>
           <Text style={styles.text}>Generate</Text>
         </Pressable>
         <Pressable style={styles.button} onPress={() => console.log("Copy")}>
-          <Text style={styles.text}>Copy</Text>
+          <Text style={styles.text}>Copy </Text>
         </Pressable>  
     </View>
   );
