@@ -280,7 +280,7 @@ Teacher imported Pressable from 'react-native' (as Text, View or Button) and ins
 Why insert a &lt;Pressable/&gt; instead of use a &lt;Button/&gt;? To have more possibilities on formatting.
 
 
-# Current class: Personalizando um button
+# Current class: Criando um Service
 
 
 
