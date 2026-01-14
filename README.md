@@ -280,8 +280,9 @@ Teacher imported Pressable from 'react-native' (as Text, View or Button) and ins
 Why insert a &lt;Pressable/&gt; instead of use a &lt;Button/&gt;? To have more possibilities on formatting.
 
 
-# Current class: Criando um Service
+# Creating a service
 
+Next, teacher create the service src/services/passwordService.ts. He said that he did not use the extension **tsx** bacause he said that is a common TypeScript file and not a component.
 
 
 # Repository related to the classes
