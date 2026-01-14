@@ -337,6 +337,8 @@ export function BatButton() {
 }
 ```
 
+It is interesting that **generatePass** function when called is executed (**let generateToken = generatePass();**). And when execute the function **handleGenerateButton** a new password is inserted in the &lt;Text&gt; every time!
+
 
 # Repository related to the classes
 
