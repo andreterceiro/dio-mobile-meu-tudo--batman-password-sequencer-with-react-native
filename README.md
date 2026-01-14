@@ -284,7 +284,25 @@ Why insert a &lt;Pressable/&gt; instead of use a &lt;Button/&gt;? To have more p
 
 Next, teacher create the service src/services/passwordService.ts. He said that he did not use the extension **tsx** bacause he said that is a common TypeScript file and not a component.
 
-This service had a simple TypeScript function that generated a random password.
+This service had a simple TypeScript function that generated a random password:
+
+```ts
+export default function generatePass() {
+    let password: string = '';
+    let characters: string = 'Aa@$#123456789bcdefghijFGHUJLMNOP!';
+    let passwordLength = 8;
+
+    for (let index = 0; index < passwordLength; index++) {
+        password += characters.charAt(
+            Math.floor(
+                Math.random() * characters.length
+            )
+        );
+    }
+
+    return password;
+}
+```
 
 # Repository related to the classes
 
