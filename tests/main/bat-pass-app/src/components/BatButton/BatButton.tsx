@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import { Button, View, Text, Pressable } from 'react-native';
+import { Text, Pressable } from 'react-native';
 import {BatTextInput} from '../BatTextInput/BatTextInput';
 
 import { styles } from './BatButtonStyles';
