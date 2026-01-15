@@ -342,7 +342,7 @@ It is interesting that **generatePass** function when called is executed (**let 
 
 # Finalizando a parte lógica / expo clipboard
 
-To interact with the clipbpard teacher used an Expo package.
+To interact with the clipbpard teacher used an Expo package. Teacher also said that React Native already has a lot of package and the union with the Expo package does the ecosystem complete, with several packages.
 
 
 # Repository related to the classes
