@@ -350,6 +350,12 @@ Teacher installed Expo Clipboard with this command:
 npx expo install expo-clipboard
 ```
 
+After installing, the command to import expo-clipboard is:
+
+```
+import * as Clipboard from 'expo-clipboard'
+```
+
 
 # Repository related to the classes
 
